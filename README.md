@@ -1,2 +1,6 @@
-# STM32_XPT2046
-STM32Duino XPT2046 touch library
+Description
+---
+
+A simple **XPT2046** Touch Screen library for STM32duino project (http://stm32duino.com)
+
+Tested on "BluePill"
